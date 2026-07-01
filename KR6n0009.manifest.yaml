@@ -1,0 +1,173 @@
+canonical_identifier: bkk:krp/KR6n0009/v1
+canonical_location: https://kanripo.org/bkk/KR6n0009/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 瑜伽師地論分門記
+  identifiers:
+    alt_id:
+    - T85n2801
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2801.xml
+    old_id: T85n2801
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: ？
+  label: ？
+  source_xml_id: wit2
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0009_000.yaml, hash: 'sha256:1a3af931550e94099c64f49e527ea59eadf9053565ce7fb570e8081e19724323'}
+  - {seq: 1, filename: KR6n0009_001.yaml, hash: 'sha256:1057f6e136f1ce04949eff147aa1d4f9546bc2fd5e3c735707c7852f6d65b191'}
+  - {seq: 2, filename: KR6n0009_002.yaml, hash: 'sha256:b4376947060d9392c6a966bd94ef66d9645d1c3636067a99e3141d232ff56de7'}
+  - {seq: 3, filename: KR6n0009_003.yaml, hash: 'sha256:0ffa7c30b937da3ed5001b0b15d81aac2e066d59da773fd809d44575fbefc717'}
+  - {seq: 4, filename: KR6n0009_004.yaml, hash: 'sha256:80e09eb5957932f3564429aa7d2f717ded27a7e744e1289d08d1d5a65696088a'}
+  - {seq: 5, filename: KR6n0009_005.yaml, hash: 'sha256:a86f74c432df8ff337ae90e3293a1a7e186d47eb0fa25fc792fc0925268d1c49'}
+  - {seq: 6, filename: KR6n0009_006.yaml, hash: 'sha256:ca1a9d6e957ab581093615e29257f24711a6eb8e320083696982ec81205b75ac'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6n0009_001.markers.yaml, hash: 'sha256:f0c02ce1cb84ae0f4fd781cc4a0b48a65251df4f1953efcb95ab3f1a77439f0c'}
+  - {seq: 2, role: markers, filename: assets/KR6n0009_002.markers.yaml, hash: 'sha256:56734e4e92c76d2bec91214e510ec3cfdcf38395459fddf9543447ba7a8eeea6'}
+  - {seq: 4, role: markers, filename: assets/KR6n0009_004.markers.yaml, hash: 'sha256:498de2e968bc45bb5f1beb6c69d7dc67f2bb697d077ad0375a2ba0155c8244db'}
+  - {seq: 5, role: markers, filename: assets/KR6n0009_005.markers.yaml, hash: 'sha256:194082913a09b26da089479c98adc5687a700a98c978363bf050409418ae8eed'}
+  - {seq: 6, role: markers, filename: assets/KR6n0009_006.markers.yaml, hash: 'sha256:00bd585ee857b3cc0a12d2e497276b4a40ec102c2432aef2af0bb53beec91872'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0009_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 63406
+  label: '瑜伽師地開釋分門記
+
+    五識身相應地等前十二地同卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0009_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 本事分前十二地
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0009_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 47523
+  label: '瑜伽師論本地分中聲聞地分門
+
+    記一卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0009_T_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 本事分聲聞地
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0009_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 500
+  label: 瑜伽師論本地分中獨覺地分門記一卷
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0009_T_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 本事分獨覺地
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0009_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 17452
+  label: 菩薩地第十五分門記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0009_T_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 本事分菩薩地
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0009_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 23677
+  label: 菩薩地第十五分門記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0009_T_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 本事分菩薩地
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0009_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 28659
+  label: '瑜伽師地論決擇分分門記
+
+    卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0009_T_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 攝決擇分
+  type: mulu
+  level: 1
+hash: sha256:76f280a2967c915a3d126d4820bd8b74fe3a332e91e10a8bf51fe42d6511e124
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

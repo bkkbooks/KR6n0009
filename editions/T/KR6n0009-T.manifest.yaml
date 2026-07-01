@@ -1,0 +1,164 @@
+canonical_identifier: bkk:krp/KR6n0009/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0009/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 瑜伽師地論分門記
+  identifiers:
+    krp: KR6n0009
+    cbeta: T85n2801
+    cbeta_old_id: T85n2801
+    authorityid: CA0004821
+    json_key: T2801
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2801.xml
+    old_id: T85n2801
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0009_000-T.yaml, hash: 'sha256:1a3af931550e94099c64f49e527ea59eadf9053565ce7fb570e8081e19724323'}
+  - {seq: 1, filename: KR6n0009_001-T.yaml, hash: 'sha256:09c0400648f77defc4bd99e53ef0961e1fdb4699dd5677882fec8e29324529f9'}
+  - {seq: 2, filename: KR6n0009_002-T.yaml, hash: 'sha256:9dc72138667951ec8fcbce9c628988011063a411c6c961491891ae67ed0078a7'}
+  - {seq: 3, filename: KR6n0009_003-T.yaml, hash: 'sha256:0ffa7c30b937da3ed5001b0b15d81aac2e066d59da773fd809d44575fbefc717'}
+  - {seq: 4, filename: KR6n0009_004-T.yaml, hash: 'sha256:160804389cfe48d6fad3646e03ea9a17e3cb7ae2db4d8975247ed589768b1a83'}
+  - {seq: 5, filename: KR6n0009_005-T.yaml, hash: 'sha256:3e8cc54503a3fe660c724abd62c410fddd5afdc542f49949893a4b3dc006aeb5'}
+  - {seq: 6, filename: KR6n0009_006-T.yaml, hash: 'sha256:81e32895d0d154c1020c04b5b782838f31d813c95115998787690e788cd9a45e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0009_000-T.markers.yaml, hash: 'sha256:74e2450fcf6f7d9014f3c808d3afe1fd1361b8ef6993b18f4d103f86b9a292e1'}
+  - {seq: 1, role: markers, filename: assets/KR6n0009_001-T.markers.yaml, hash: 'sha256:5a9a80de952e7d39c29524391d50bbc777164afa4e0458ffee9e2f264cff8636'}
+  - {seq: 2, role: markers, filename: assets/KR6n0009_002-T.markers.yaml, hash: 'sha256:65f64a1a64d0271b688c5d382773f021d7813c95068be5ba0846dea8cead0833'}
+  - {seq: 3, role: markers, filename: assets/KR6n0009_003-T.markers.yaml, hash: 'sha256:c1bfdef9d757fcc215a83ccfbcda46c54657c92e75dc85bb9574efff44eb148d'}
+  - {seq: 4, role: markers, filename: assets/KR6n0009_004-T.markers.yaml, hash: 'sha256:ccefab4db0f68e1f5a40c8d265b62075f0487cda5cda08ceb03faf06fc169b6a'}
+  - {seq: 5, role: markers, filename: assets/KR6n0009_005-T.markers.yaml, hash: 'sha256:6cb18c8fb3d256ed4e15dd7827628e669754d17b1d8ca49cdded0f7b553f0259'}
+  - {seq: 6, role: markers, filename: assets/KR6n0009_006-T.markers.yaml, hash: 'sha256:c9c99d1ccd331064e7e23592e4082f1af230ddffb58452df9a76e0db827e401d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0009_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 63406
+  label: '瑜伽師地開釋分門記
+
+    五識身相應地等前十二地同卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0009_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 本事分前十二地
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0009_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 47523
+  label: '瑜伽師論本地分中聲聞地分門
+
+    記一卷'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0009_T_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 本事分聲聞地
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0009_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 500
+  label: 瑜伽師論本地分中獨覺地分門記一卷
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0009_T_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 本事分獨覺地
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0009_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 17452
+  label: 菩薩地第十五分門記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0009_T_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 本事分菩薩地
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0009_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 23677
+  label: 菩薩地第十五分門記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0009_T_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 本事分菩薩地
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0009_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 28659
+  label: '瑜伽師地論決擇分分門記
+
+    卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0009_T_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 攝決擇分
+  type: mulu
+  level: 1
+hash: sha256:1d3fc82ed94d2ce4dfbab697b6f1f088c9392feba50f528c06c9221e281cfb9c
